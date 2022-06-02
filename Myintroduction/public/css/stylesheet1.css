@@ -50,19 +50,28 @@ header{
 .btn:hover{
     opacity:1;
 }
-
 .instagram{
     background-color:indianred;
-    margin: 50px 80px 10px 0;
+    margin: 50px 30px 10px 0;
+    color:black;
 }
 .instagram-logo{
     width: 50px;
 }
 .qiita{
     background-color: chartreuse;
-    margin: 50px 10px 10px 0;
+    margin: 50px 30px 10px 0;
+    color:black
 }
 .qiita-logo{
+    width:50px;
+}
+.github{
+    background-color: aliceblue;
+    color:black;
+    margin: 50px 30px 10px 0;
+}
+.github-logo{
     width:50px;
 }
 .introduction-wrapper {

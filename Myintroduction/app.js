@@ -23,8 +23,8 @@ app.get('/',(req,res)=>{
     res.render('index.ejs');
 });
 
-app.get('/hello',(req,res)=>{
-    res.render('hello.ejs');
+app.get('/works',(req,res)=>{
+    res.render('works.ejs');
 });
 app.post('/create',(req,res)=>{
     

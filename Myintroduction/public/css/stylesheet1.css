@@ -10,11 +10,27 @@ header{
     width:100%;
     z-index: 10;
 }
+.Title{
+    font-size: 24px;
+    margin:0;
+    float:left;
+    display:inline-block;
+    font-size:50px;
+    padding:0 300px 0 50px;
+}
+.headerlist li {
+    list-style-type:none;
+    float:left;
+    padding-top: 10px;
+}
+.topbtn{
+    margin-right: 50px;
+}
 .homebtn{
     font-size: 32px;
     padding:5px;
     text-decoration: none;
-    color:aliceblue;
+    color:white;
 }
 
 .container{
